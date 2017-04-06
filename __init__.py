@@ -1,0 +1,1 @@
+#This is a the configuration file for the Two-Color Mapping project
